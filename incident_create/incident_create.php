@@ -15,6 +15,7 @@
             <label><?php echo htmlspecialchars(
                     $customer['firstName'] . ' ' . 
                     $customer['lastName']); ?></label>
+                    
             <br>
 
             <label>Product:</label>
